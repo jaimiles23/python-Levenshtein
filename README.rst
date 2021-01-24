@@ -52,6 +52,16 @@ Installation
 
    pip install python-Levenshtein
 
+If you receive the following error:
+
+::
+
+  error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  
+
+Install Microsoft Visual C++ Build Tools `here <https://visualstudio.microsoft.com/visual-cpp-build-tools//>`_
+
+
 Documentation
 --------------
 
